@@ -1,0 +1,4 @@
+#should use CIS AMI for more security
+bastion_ami: ami-03657b56516ab7912
+region: us-east-2
+MYIP: 197.45.150.22/32
